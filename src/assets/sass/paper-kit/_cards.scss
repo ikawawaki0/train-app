@@ -28,6 +28,10 @@
         border-radius: 0;
     }
 
+    .card-img-top {
+        border-radius: $border-radius-extreme;
+    }
+
     .card-footer{
         padding: 15px;
         background: transparent ;
